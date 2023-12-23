@@ -16,8 +16,8 @@ Context VAD : https://drive.google.com/file/d/1n-_BjRFMWRj3cMMiLxugU_FUewKNJsi3/
    
 Yapı Diyagramı : https://drive.google.com/file/d/1PL0nPtiLSCYTNunA7x3nkKE9hWC7Bj5B/view
 
-Sınıf Diyagramı: https://drive.google.com/file/d/1zwhsZz9yuHffufFF4AXHqC7Cw08NGJip/view?usp=sharing
+Sınıf Diyagramı: https://drive.google.com/file/d/1zwhsZz9yuHffufFF4AXHqC7Cw08NGJip/view?usp=sharing (yapılmamış)
 
 Ardışıl Diyagram: 
 
-E-R Diyagramı: https://drive.google.com/file/d/1alZh2Y_jmFyQ6jAOGM5ThzTZRs6iRTJv/view?usp=sharing
+E-R Diyagramı: https://drive.google.com/file/d/1alZh2Y_jmFyQ6jAOGM5ThzTZRs6iRTJv/view?usp=sharing (yapılmamış)
