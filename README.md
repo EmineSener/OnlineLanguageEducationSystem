@@ -8,7 +8,7 @@ Proje Ekip Yapısı ve Organizasyon Şeması:
 
 Fizibilite Analizi (Tablo Şeklinde):
 
-Gant Diyagramı : https://dosya.co/3ujvrnyc5noh/SA.mpp.html (Yarım maliyet, çalışanlar girilmemiş,Kritikleri göster)
+Gant Diyagramı : https://github.com/EmineSener/OnlineLanguageEducationSystem/blob/main/SA.mpp (Yarım maliyet, çalışanlar girilmemiş,Kritikleri göster)
 
 USE CASE : https://drive.google.com/file/d/1DRFEeq2o-iicutGS1Vuq0-e0R_cmeQKO/view
 
