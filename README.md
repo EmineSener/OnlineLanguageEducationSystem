@@ -18,6 +18,6 @@ Yapı Diyagramı : https://drive.google.com/file/d/1PL0nPtiLSCYTNunA7x3nkKE9hWC7
 
 Sınıf Diyagramı: https://drive.google.com/file/d/1zwhsZz9yuHffufFF4AXHqC7Cw08NGJip/view?usp=sharing
 
-Ardışıl Diyagram:
+Ardışıl Diyagram: 
 
-E-R Diyagramı:
+E-R Diyagramı: https://drive.google.com/file/d/1alZh2Y_jmFyQ6jAOGM5ThzTZRs6iRTJv/view?usp=sharing
