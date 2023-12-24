@@ -20,7 +20,7 @@ Context VAD : https://drive.google.com/file/d/1n-_BjRFMWRj3cMMiLxugU_FUewKNJsi3/
    
 Yapı Diyagramı : https://drive.google.com/file/d/1PL0nPtiLSCYTNunA7x3nkKE9hWC7Bj5B/view
 
-Sınıf Diyagramı: https://drive.google.com/file/d/1zwhsZz9yuHffufFF4AXHqC7Cw08NGJip/view?usp=sharing (yapılmamış)
+Sınıf Diyagramı: https://drive.google.com/file/d/19oWkDM0DppGuV2pI7GnbDwotzToWGenl/view?usp=sharing
 
 Ardışıl Diyagram: 
 
