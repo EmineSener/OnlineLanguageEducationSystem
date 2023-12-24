@@ -22,6 +22,6 @@ Yapı Diyagramı : https://drive.google.com/file/d/1PL0nPtiLSCYTNunA7x3nkKE9hWC7
 
 Sınıf Diyagramı: https://drive.google.com/file/d/19oWkDM0DppGuV2pI7GnbDwotzToWGenl/view?usp=sharing
 
-Ardışıl Diyagram: 
+Ardışıl Diyagram: https://drive.google.com/file/d/1xgHr_iNVzC9DzwOFbGgczc7O_SA2PZKl/view
 
 E-R Diyagramı: https://drive.google.com/file/d/1alZh2Y_jmFyQ6jAOGM5ThzTZRs6iRTJv/view?usp=sharing (yapılmamış)
