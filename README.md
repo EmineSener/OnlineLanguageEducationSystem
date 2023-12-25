@@ -14,11 +14,7 @@ USE CASE : https://drive.google.com/file/d/1DRFEeq2o-iicutGS1Vuq0-e0R_cmeQKO/vie
 
 Context VAD : https://drive.google.com/file/d/1n-_BjRFMWRj3cMMiLxugU_FUewKNJsi3/view?usp=sharing
 
-1. Seviye VAD :
-  
-ESKİ: https://drive.google.com/file/d/1ezm5AUsP9oohJNqs4Vm6G4mxo_pJCyv1/view
-
-YENİ: https://drive.google.com/file/d/1k7mIigPDHGOPCtco7LNUKi5mu330lyg7/view?usp=sharing
+1. Seviye VAD : https://drive.google.com/file/d/1k7mIigPDHGOPCtco7LNUKi5mu330lyg7/view?usp=sharing
   
 2. Seviye VAD : https://drive.google.com/file/d/1Rj9VlleqA647NR7KayS6sdG4QHJShPAm/view
    
