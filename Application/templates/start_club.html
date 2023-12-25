@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Online Language Education</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.1.3/dist/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.1.3/dist/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>  
+    <style>
+        form {
+            margin-top: 70px;
+        }
+
+        body {
+            background-color: #100C2A;
+        }
+
+        label {
+            color: rgb(227, 227, 227)
+        }
+    </style>
+
+</head>
+
+<body>
+    
+
+    <form  method="POST"  action="/save_club" >
+        <div class="form-row">
+            <div class="col-md-4 mb-3">
+                <label for="validationServer01">Kulüp Adı</label>
+                <input type="text" class="form-control is-valid" id="validationServer01" name="name" placeholder="First name" value="Mark" required>
+                <div class="valid-feedback">
+                  Looks good!
+                </div>
+            </div>
+        </div>
+        <div class="form-row">>
+            <div class="col-md-4 mb-3">
+                <label for="validationServer01">Kulüp Bağlantısı</label>
+                <input type="text" class="form-control is-valid" id="validationServer01" name="link" placeholder="First name" value="Otto" required>
+                <div class="valid-feedback">
+                Looks good!
+                </div>
+            </div>
+        </div>
+        <div class="form-row">>
+            <div class="col-md-4 mb-3">
+                <label for="validationServer01">Kulüp Saati</label>
+                <input type="text" class="form-control is-valid" id="validationServer01" name="time" placeholder="First name" value="Otto" required>
+                <div class="valid-feedback">
+                Looks good!
+                </div>
+            </div>
+        </div>
+        <div class="form-row">>
+            <div class="col-md-4 mb-3">
+                <label for="validationServer01">Kulüp Seviyesi</label>
+                <input type="text" class="form-control is-valid" id="validationServer01" name="level" placeholder="First name" value="Otto" required>
+                <div class="valid-feedback">
+                Looks good!
+                </div>
+            </div>
+        </div> 
+        <button class="btn btn-primary" type="submit">Submit</button>
+      </form>
+</body>
+</html>
