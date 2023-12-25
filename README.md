@@ -28,4 +28,4 @@ Sınıf Diyagramı: https://drive.google.com/file/d/19oWkDM0DppGuV2pI7GnbDwotzTo
 
 Ardışıl Diyagram: https://drive.google.com/file/d/1xgHr_iNVzC9DzwOFbGgczc7O_SA2PZKl/view
 
-E-R Diyagramı: https://drive.google.com/file/d/1alZh2Y_jmFyQ6jAOGM5ThzTZRs6iRTJv/view?usp=sharing (yapılmamış)
+E-R Diyagramı: https://drive.google.com/file/d/1dUHC0P7oKuNzHbwRI1_k_hmgjlzPuBjI/view?usp=sharing
