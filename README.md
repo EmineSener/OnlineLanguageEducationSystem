@@ -4,9 +4,9 @@ Toplantı Raporları (1. ve 2. Toplantı Raporu)
 
 2.Toplantı : https://github.com/EmineSener/OnlineLanguageEducationSystem/blob/main/2.Müşteri%20Toplantısı%20Raporu.docx
 
-Proje Ekip Yapısı ve Organizasyon Şeması:
+Proje Ekip Yapısı ve Organizasyon Şeması: RAPORDA BULUNMAKTADIR.
 
-Fizibilite Analizi (Tablo Şeklinde):
+Fizibilite Analizi (Tablo Şeklinde): RAPORDA BULUNMAKTADIR.
 
 Gant Diyagramı : https://github.com/EmineSener/OnlineLanguageEducationSystem/blob/main/oles.mpp
 
